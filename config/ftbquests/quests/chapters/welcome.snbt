@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	id: "75373A7DEF8754A5"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			id: "minecraft:diamond_ore"
+		}
+		id: "62C5E9728BEE4CDA"
+		size: 2.0d
+		tasks: [{
+			id: "33E2B0E197C44E37"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

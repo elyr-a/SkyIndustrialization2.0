@@ -1,0 +1,13 @@
+{
+    "casing": "stone_brick_casing",
+    "default_overlays": {
+        "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+        "front": "mi_tweaks:block/machines/sieve/overlay_front",
+        "front_active": "mi_tweaks:block/machines/sieve/overlay_front_active",
+        "top": "mi_tweaks:block/machines/sieve/overlay_top",
+        "top_active": "mi_tweaks:block/machines/sieve/overlay_top_active",
+        "item_auto": "modern_industrialization:block/overlays/item_auto",
+        "output": "modern_industrialization:block/overlays/output"
+    },
+    "loader": "modern_industrialization:machine"
+}

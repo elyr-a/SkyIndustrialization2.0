@@ -1,0 +1,291 @@
+{
+  "favorites": [
+    {
+      "stack": "item:mi_tweaks:leaf_press",
+      "recipe": "kubejs:kjs/mi_tweaks_leaf_press"
+    },
+    {
+      "stack": "item:mi_tweaks:cobble_generator",
+      "recipe": "kubejs:kjs/mi_tweaks_cobble_generator"
+    },
+    {
+      "stack": "item:modern_industrialization:steel_machine_casing"
+    },
+    {
+      "stack": "item:modern_industrialization:steel_machine_casing_pipe"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "modern_industrialization:steel_drill",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "modern_industrialization:raw_synthetic_oil",
+        "amount": 200
+      },
+      "recipe": "modern_industrialization:materials/mixer/coke_to_raw_oil"
+    },
+    {
+      "stack": "item:modern_industrialization:analog_circuit",
+      "recipe": "modern_industrialization:electric_age/circuit/craft/lv_circuit_asbl"
+    },
+    {
+      "stack": "item:modern_industrialization:resistor"
+    },
+    {
+      "stack": "item:modern_industrialization:inductor"
+    },
+    {
+      "stack": "item:modern_industrialization:analog_circuit_board"
+    },
+    {
+      "stack": "item:modern_industrialization:capacitor"
+    },
+    {
+      "stack": "item:modern_industrialization:copper_wire"
+    },
+    {
+      "stack": "item:modern_industrialization:basic_machine_hull",
+      "recipe": "modern_industrialization:electric_age/hull/lv_machine_hull_asbl"
+    },
+    {
+      "stack": "item:modern_industrialization:tin_cable"
+    },
+    {
+      "stack": "item:modern_industrialization:redstone_battery"
+    }
+  ],
+  "lookup_history": [
+    "item:modern_industrialization:redstone_battery",
+    "item:modern_industrialization:analog_circuit",
+    "item:modern_industrialization:capacitor",
+    "item:modern_industrialization:analog_circuit_board",
+    "item:modern_industrialization:invar_rotary_blade",
+    "item:modern_industrialization:steam_quarry",
+    {
+      "type": "item",
+      "id": "modern_industrialization:bauxite_crushed_dust",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:bauxite_ore",
+      "amount": 34
+    },
+    "item:modern_industrialization:steel_wiremill",
+    "item:modern_industrialization:resistor",
+    "item:modern_industrialization:inductor",
+    {
+      "type": "item",
+      "id": "modern_industrialization:steel_drill",
+      "amount": 64
+    },
+    "item:modern_industrialization:wood_pulp",
+    {
+      "type": "fluid",
+      "id": "modern_industrialization:raw_synthetic_oil",
+      "amount": 200
+    },
+    "item:modern_industrialization:coke_dust",
+    {
+      "type": "fluid",
+      "id": "modern_industrialization:synthetic_oil",
+      "amount": 100
+    },
+    {
+      "type": "fluid",
+      "id": "modern_industrialization:creosote",
+      "amount": 0
+    },
+    "item:modern_industrialization:arithmetic_logic_unit",
+    "item:modern_industrialization:diamond_large_plate",
+    "item:modern_industrialization:diamond_plate",
+    "item:minecraft:diamond",
+    "item:modern_industrialization:diamond_dust",
+    "item:modern_industrialization:diamond_tiny_dust",
+    {
+      "type": "item",
+      "id": "modern_industrialization:coal_tiny_dust",
+      "amount": 64
+    },
+    "item:modern_industrialization:bronze_macerator",
+    "item:modern_industrialization:invar_gear",
+    "item:mi_tweaks:sieve",
+    {
+      "type": "item",
+      "id": "minecraft:gravel",
+      "amount": 64
+    },
+    "item:modern_industrialization:config_card",
+    "item:modern_industrialization:antimony_dust",
+    {
+      "type": "item",
+      "id": "modern_industrialization:raw_antimony",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:antimony_ore",
+      "chance": 0.2
+    },
+    "item:modern_industrialization:steel_double_ingot",
+    "item:modern_industrialization:motor",
+    "item:modern_industrialization:tin_cable",
+    "item:modern_industrialization:stainless_steel_drill",
+    "item:modern_industrialization:electric_quarry",
+    "item:modern_industrialization:electronic_circuit_board",
+    "item:modern_industrialization:electronic_circuit",
+    "item:minecraft:ender_pearl",
+    "item:minecraft:paper",
+    "item:moderndynamics:attractor",
+    "item:mi_tweaks:humidifier",
+    {
+      "type": "item",
+      "id": "minecraft:clay",
+      "amount": 64
+    },
+    "item:minecraft:sand",
+    "item:modern_industrialization:copper_rotor",
+    "item:minecraft:calcite",
+    "item:modern_industrialization:copper_drill",
+    {
+      "type": "item",
+      "id": "modern_industrialization:bronze_dust",
+      "amount": 64
+    },
+    "item:mi_tweaks:brick_furnace",
+    {
+      "type": "item",
+      "id": "minecraft:furnace",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:oak_log",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:cobblestone",
+      "amount": 64
+    },
+    "item:modern_industrialization:bronze_furnace",
+    "item:modern_industrialization:electric_blast_furnace",
+    "item:modern_industrialization:electric_furnace",
+    "item:minecraft:furnace_minecart",
+    "item:modern_industrialization:steam_blast_furnace",
+    {
+      "type": "fluid",
+      "id": "minecraft:lava",
+      "amount": 0
+    },
+    {
+      "type": "item",
+      "id": "minecraft:dirt",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:tin_tiny_dust",
+      "amount": 64
+    },
+    "item:moderndynamics:item_pipe",
+    "item:mi_tweaks:crucible",
+    {
+      "type": "item",
+      "id": "modern_industrialization:copper_tiny_dust",
+      "amount": 3
+    },
+    "item:modern_industrialization:stone_gear",
+    {
+      "type": "item",
+      "id": "minecraft:glass",
+      "amount": 2
+    },
+    "item:woodenhopper:wooden_hopper",
+    "item:modern_industrialization:wood_gear",
+    {
+      "type": "item",
+      "id": "modern_industrialization:wood_plate",
+      "amount": 5
+    },
+    "item:minecraft:chest",
+    "#item:c:chests/wooden",
+    {
+      "type": "item",
+      "id": "woodenbucket:wooden_bucket",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:stone_plate",
+      "amount": 20
+    },
+    "item:mi_tweaks:leaf_press",
+    "item:mi_tweaks:cobble_generator",
+    {
+      "type": "item",
+      "id": "mi_tweaks:hand_crusher",
+      "amount": 64
+    },
+    "item:modern_industrialization:nuclear_alloy_plate",
+    "item:modern_industrialization:platinum_plate",
+    "item:modern_industrialization:tin_curved_plate",
+    "item:modern_industrialization:silicon_n_doped_plate",
+    "item:modern_industrialization:cadmium_plate",
+    "item:modern_industrialization:bronze_plate",
+    "item:modern_industrialization:blastproof_alloy_plate",
+    "item:modern_industrialization:beryllium_plate",
+    "item:modern_industrialization:iron_large_plate",
+    "item:modern_industrialization:iridium_curved_plate",
+    "item:modern_industrialization:chromium_plate",
+    "item:modern_industrialization:carbon_plate",
+    "item:modern_industrialization:copper_curved_plate",
+    "item:modern_industrialization:copper_plate",
+    "item:modern_industrialization:cupronickel_plate",
+    "item:modern_industrialization:iron_plate",
+    "item:modern_industrialization:nickel_plate",
+    "item:modern_industrialization:lead_plate",
+    "item:modern_industrialization:silver_plate",
+    {
+      "type": "item",
+      "id": "exdeorum:string_mesh",
+      "chance": 0.0
+    },
+    "item:modern_industrialization:electric_macerator",
+    "item:minecraft:bamboo_stairs"
+  ],
+  "craft_history": [
+    "kubejs:kjs/mi_tweaks_sieve",
+    "kubejs:kjs/mi_tweaks_hand_crusher",
+    "woodenhopper:wooden_hopper",
+    "kubejs:kjs/modern_industrialization_stone_gear",
+    "kubejs:kjs/modern_industrialization_wood_gear",
+    "minecraft:stick",
+    "kubejs:kjs/modern_industrialization_wood_plate",
+    "minecraft:oak_planks",
+    "kubejs:kjs/modern_industrialization_stone_plate",
+    "modern_industrialization:vanilla_recipes/easy_chest",
+    "minecraft:stone_axe",
+    "kubejs:kjs/mi_tweaks_crucible",
+    "woodenbucket:wooden_bucket",
+    "minecraft:stone_pickaxe",
+    "minecraft:furnace",
+    "kubejs:kjs/mi_tweaks_leaf_press",
+    "kubejs:kjs/mi_tweaks_cobble_generator",
+    "minecraft:chest",
+    "woodenshears:wooden_shears",
+    "minecraft:crafting_table"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

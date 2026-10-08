@@ -1,0 +1,21 @@
+filename = 'bucketlib-neoforge-1.21-4.1.7.2.jar'
+name = 'BucketLib'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21-4.1.7.2'
+
+[download]
+hash = 'c7102052152d0e107c4686eb0d11e4ce00313032'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8061863
+project-id = 560156
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

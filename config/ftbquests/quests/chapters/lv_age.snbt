@@ -1,0 +1,26 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lv_age"
+	group: "7906F4DF0F8E3A50"
+	icon: {
+		id: "modern_industrialization:basic_machine_hull"
+	}
+	id: "28BCD336A84A46D6"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["6F96B9D9802210AF"]
+		icon_scale: 1.5d
+		id: "63A690426A5E323C"
+		size: 2.0d
+		tasks: [{
+			id: "665A15CDC9118C42"
+			item: { count: 1, id: "modern_industrialization:basic_machine_hull" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

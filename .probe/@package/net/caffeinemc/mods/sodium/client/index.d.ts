@@ -1,0 +1,5 @@
+export * as model from "@package/net/caffeinemc/mods/sodium/client/model";
+export * as render from "@package/net/caffeinemc/mods/sodium/client/render";
+export * as world from "@package/net/caffeinemc/mods/sodium/client/world";
+export * as services from "@package/net/caffeinemc/mods/sodium/client/services";
+export * as platform from "@package/net/caffeinemc/mods/sodium/client/platform";

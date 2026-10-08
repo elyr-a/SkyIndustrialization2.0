@@ -1,0 +1,16 @@
+saves/
+world/
+*.mca
+*.lock
+session.lock
+
+usercache.json
+usernamecache.json
+logs/
+crash-reports/
+asm/
+.fabric/
+.mixin.out/
+
+instance.cfg
+mmc-pack.json

@@ -1,0 +1,13 @@
+{
+    "casing": "oak_log_casing",
+    "default_overlays": {
+        "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+        "front": "mi_tweaks:block/machines/leaf_press/overlay_front",
+        "front_active": "mi_tweaks:block/machines/leaf_press/overlay_front_active",
+        "side": "mi_tweaks:block/machines/leaf_press/overlay_side",
+        "side_active": "mi_tweaks:block/machines/leaf_press/overlay_side_active",
+        "item_auto": "modern_industrialization:block/overlays/item_auto",
+        "output": "modern_industrialization:block/overlays/output"
+    },
+    "loader": "modern_industrialization:machine"
+}

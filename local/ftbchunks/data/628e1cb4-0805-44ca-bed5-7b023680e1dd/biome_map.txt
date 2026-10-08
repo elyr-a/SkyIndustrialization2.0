@@ -1,0 +1,7 @@
+#3D6 minecraft:cold_ocean
+#292 minecraft:frozen_ocean
+#3A0 minecraft:frozen_river
+#3DC minecraft:plains
+#72D minecraft:snowy_beach
+#4E5 minecraft:snowy_plains
+#340 minecraft:snowy_taiga

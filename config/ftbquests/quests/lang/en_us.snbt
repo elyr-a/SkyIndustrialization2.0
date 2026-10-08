@@ -1,0 +1,102 @@
+{
+	chapter.00403DDC4FAF1852.title: "MV Age"
+	chapter.0FEA3C95C06EAF26.title: "HV Age"
+	chapter.1907CFA9A5C69052.title: "Steam Age"
+	chapter.272D9C62B5AA2DF8.title: "EV Age"
+	chapter.28BCD336A84A46D6.title: "LV Age"
+	chapter.30A6634DC43D496C.title: "Miscellaneous"
+	chapter.31F0A0FBF73DB293.title: "Quantum Age"
+	chapter.3F9E9BE2C9D1DA9E.title: "The Beginnings"
+	chapter.75373A7DEF8754A5.title: "Welcome"
+	chapter_group.7906F4DF0F8E3A50.title: "Progression"
+	quest.03009D9EF5EE9983.quest_desc: ["You can build your (lawn) bases more efficiently than usual."]
+	quest.03009D9EF5EE9983.quest_subtitle: "For faster building"
+	quest.03009D9EF5EE9983.title: "Construction Sticks"
+	quest.06F171B784711DD2.quest_desc: ["Macerating some logs into wood pulp, you can make paper in mixer."]
+	quest.06F171B784711DD2.quest_subtitle: "Macerate Some Logs"
+	quest.06F171B784711DD2.title: "Paper"
+	quest.07423E318123B4C8.quest_desc: ["By putting a Bronze Machine Casing with Gravel you can get more dusts which you will need in order to progress through Steam Age."]
+	quest.07423E318123B4C8.title: "More Dusts!"
+	quest.07EA9CD952374F59.quest_desc: ["Get some leaves for your first water."]
+	quest.07EA9CD952374F59.quest_subtitle: "Get to shearing"
+	quest.08E15295A4D078E5.quest_desc: [
+		"You can use Humidifier to get your first clay you need for your fire clay."
+		""
+		"PS: You can also get moss for your building needs from it."
+	]
+	quest.08E15295A4D078E5.quest_subtitle: "Sand to Clay"
+	quest.0B5DEEC09B4C7063.quest_desc: ["You can upgrade your Machines to Steel by using this on your Bronze Machines."]
+	quest.0B5DEEC09B4C7063.quest_subtitle: "Upgrading Your Machines"
+	quest.0D8C68A7D3461F52.quest_desc: ["Also some couple of ores you need in next tiers."]
+	quest.0D8C68A7D3461F52.quest_subtitle: "Antimony, Lead..."
+	quest.0FEF858E4946FF85.quest_subtitle: "MD Pipes for early automation"
+	quest.0FEF858E4946FF85.title: "Pipes"
+	quest.17899D84C8568919.quest_desc: ["I mean you gotta start from somewhere..."]
+	quest.17899D84C8568919.quest_subtitle: "Yeah... "
+	quest.17899D84C8568919.title: "Wood..."
+	quest.1D21ADB75562E79D.quest_desc: [
+		"Your first way of getting cobblestone."
+		""
+		"PS: A lava bucket for you so you can start your cobblestone generation... Don't forget to make more lava with it!"
+	]
+	quest.1D21ADB75562E79D.quest_subtitle: "Cobblestone!"
+	quest.1DF179C561A8570A.quest_subtitle: "Wires"
+	quest.1DF179C561A8570A.title: "Steel Wiremill"
+	quest.1F6452F613043722.quest_subtitle: "Nether Blocks"
+	quest.2090C712DE3CCA9C.quest_subtitle: "Cook it"
+	quest.2090C712DE3CCA9C.title: "Uncooked Steel Dust"
+	quest.21F0032120EAFD59.title: "Steel"
+	quest.220B2718772E48BE.quest_subtitle: "Machine Casings!"
+	quest.2325120966A41374.quest_desc: ["Depending on how many water sources it has around it, it generates as much as water."]
+	quest.2325120966A41374.quest_subtitle: "Water"
+	quest.28CD5A5E74E65755.quest_desc: ["Early game furnace multiblock for your smelting needs!"]
+	quest.28CD5A5E74E65755.quest_subtitle: "Mass Smelting"
+	quest.2B7053B1897B8ABB.quest_subtitle: "Mixing Coke"
+	quest.2C68AC6F6BD7F53B.quest_desc: ["Do not forget to get more lava through this way."]
+	quest.2C68AC6F6BD7F53B.quest_subtitle: "Slow but surely..."
+	quest.2D01140B6A9741FB.quest_desc: ["You can use Steam Quarry to get your first couple of other ores."]
+	quest.2D01140B6A9741FB.quest_subtitle: "Kinda."
+	quest.2D01140B6A9741FB.title: "Infinite Ores!"
+	quest.30223BFF254DC153.quest_desc: ["Make your first steam with burnable fuels."]
+	quest.30223BFF254DC153.quest_subtitle: "Your First Steam Production"
+	quest.3605036F0AF8A967.quest_subtitle: "Rods, Bolts"
+	quest.3867FECF5B97CE9B.title: "Steam Age"
+	quest.3BED4B38F22CEB9C.quest_subtitle: "Bucket but wooden!"
+	quest.3C8C35BB16ACF330.quest_desc: ["Sieve some dirt to get some other vanilla saplings."]
+	quest.3C8C35BB16ACF330.quest_subtitle: "Vanilla Saplings"
+	quest.3C8C35BB16ACF330.title: "Saplings"
+	quest.3C93697A86FA7EFD.title: "Battery Alloy"
+	quest.3D26F63FCD138DC2.quest_desc: ["Use Leaf Press in order to get water with some leaves."]
+	quest.3D26F63FCD138DC2.quest_subtitle: "Water!"
+	quest.42BD2767A714D9DE.quest_subtitle: "Coke and Creosote"
+	quest.452CC867F37804FC.quest_desc: ["Later in Steam Age when you are able to get some Sulfur Dust you can get Rubber Sheet with 6x efficiency."]
+	quest.452CC867F37804FC.quest_subtitle: "Insulator"
+	quest.452CC867F37804FC.title: "Rubber Production"
+	quest.45F79F26694237F3.quest_subtitle: "Smelting"
+	quest.4F740BBAB48729FB.quest_desc: ["Your first way of turning stone into gravel."]
+	quest.4F740BBAB48729FB.quest_subtitle: "Stone to Gravel!"
+	quest.5055908D2180040D.quest_subtitle: "Your First Circuit"
+	quest.50BB07A97F14AD82.quest_desc: ["You can get Lignite from this, which you can turn into Sulfur Dust to boost your Rubber Sheet production."]
+	quest.50BB07A97F14AD82.quest_subtitle: "Basic Ores"
+	quest.55E04F90E1176130.quest_desc: ["Use forge hammer in order to make your first plates, rods etc."]
+	quest.55E04F90E1176130.quest_subtitle: "Plates, Bolts, Rings..."
+	quest.56FFDC28392294F7.quest_subtitle: "Early game hopper"
+	quest.5DB845D4EAAC67C6.quest_desc: ["You can make bronze out of 3 Copper and 1 Tin (Dust, Tiny Dust etc.)."]
+	quest.5DB845D4EAAC67C6.quest_subtitle: "Steam Age"
+	quest.5DB845D4EAAC67C6.title: "Bronze Ingot"
+	quest.5E3482C2E0AD3676.quest_desc: ["Get to sieving... or get this machine to sieve for you."]
+	quest.5E3482C2E0AD3676.quest_subtitle: "Sifting? Again?"
+	quest.6059C4DAB0515006.quest_subtitle: "Stone Variants"
+	quest.62C5E9728BEE4CDA.quest_desc: ["This is not really a continuation of my previous modpack. I wanted to do even simpler modpack with only MI, and it has been like one and a half year since I have last worked on the old modpack, so I have decided to make a new one."]
+	quest.63A5F64090CB02DE.quest_subtitle: "Mixing for your alloy needs"
+	quest.63A690426A5E323C.title: "Electric Age"
+	quest.6DD690389544A897.quest_desc: ["You can compress your coal dusts into diamond dust."]
+	quest.6DD690389544A897.title: "Coal to Diamond"
+	quest.6F96B9D9802210AF.quest_subtitle: "Unto Electric Age!"
+	quest.73576639E08A0C1C.quest_subtitle: "Coke"
+	quest.75622953AAF276B0.quest_desc: ["You can also get dirt from crushing sand down."]
+	quest.75622953AAF276B0.quest_subtitle: "Dirt out of... sand?"
+	quest.759C6639FD203FA5.quest_subtitle: "Plates"
+	quest.79490F5505E50B80.quest_subtitle: "Steel"
+	task.33E2B0E197C44E37.title: "Welcome to Sky Industrialization"
+}

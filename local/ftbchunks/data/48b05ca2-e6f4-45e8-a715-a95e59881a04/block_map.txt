@@ -1,0 +1,15 @@
+#52B53D minecraft:air
+#2A4C6F mi_tweaks:cobble_generator
+#468304 minecraft:crafting_table
+#3E362F modern_industrialization:creative_tank
+#ECEE45 mi_tweaks:crucible
+#80497A minecraft:dirt
+#2DC94B minecraft:furnace
+#EB620E mi_tweaks:hand_crusher
+#6EB587 moderndynamics:item_pipe
+#8C0958 mi_tweaks:leaf_press
+#AD9EB5 minecraft:oak_leaves
+#BBA6D1 minecraft:oak_log
+#E3886A minecraft:oak_planks
+#8CB4F4 mi_tweaks:sieve
+#9C81F3 woodenhopper:wooden_hopper

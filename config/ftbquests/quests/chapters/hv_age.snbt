@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hv_age"
+	group: "7906F4DF0F8E3A50"
+	icon: {
+		id: "modern_industrialization:turbo_machine_hull"
+	}
+	id: "0FEA3C95C06EAF26"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

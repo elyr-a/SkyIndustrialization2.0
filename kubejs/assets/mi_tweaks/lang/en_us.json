@@ -1,0 +1,41 @@
+{
+    "block.mi_tweaks.sieve": "Sieve",
+    "block.mi_tweaks.hand_crusher": "Hand Crusher",
+    "block.mi_tweaks.leaf_press": "Leaf Press",
+    "block.mi_tweaks.cobble_generator": "Cobblestone Generator",
+    "block.mi_tweaks.crucible": "Crucible",
+    "block.mi_tweaks.humidifier": "Humidifier",
+    "block.mi_tweaks.brick_furnace": "Stone Brick Furnace",
+
+    "rei_categories.modern_industrialization.sieve": "Sieve",
+    "rei_categories.modern_industrialization.hand_crusher": "Hand Crusher",
+    "rei_categories.modern_industrialization.leaf_press": "Leaf Press",
+    "rei_categories.modern_industrialization.cobble_generator": "Cobblestone Generator",
+    "rei_categories.modern_industrialization.crucible": "Crucible",
+    "rei_categories.modern_industrialization.humidifier": "Humidifier",
+    "rei_categories.modern_industrialization.brick_furnace": "Stone Brick Furnace",
+
+    "rei_categories.mi_tweaks.sieve": "Sieve",
+    "rei_categories.mi_tweaks.hand_crusher": "Hand Crusher",
+    "rei_categories.mi_tweaks.leaf_press": "Leaf Press",
+    "rei_categories.mi_tweaks.cobble_generator": "Cobblestone Generator",
+    "rei_categories.mi_tweaks.crucible": "Crucible",
+    "rei_categories.mi_tweaks.humidifier": "Humidifier",
+    "rei_categories.mi_tweaks.brick_furnace": "Stone Brick Furnace",
+
+    "emi_category.modern_industrialization.sieve": "Sieve",
+    "emi_category.modern_industrialization.hand_crusher": "Hand Crusher",
+    "emi_category.modern_industrialization.leaf_press": "Leaf Press",
+    "emi_category.modern_industrialization.cobble_generator": "Cobblestone Generator",
+    "emi_category.modern_industrialization.crucible": "Crucible",
+    "emi_category.modern_industrialization.humidifier": "Humidifier",
+    "emi_category.modern_industrialization.brick_furnace": "Stone Brick Furnace",
+
+    "emi_category.mi_tweaks.sieve": "Sieve",
+    "emi_category.mi_tweaks.hand_crusher": "Hand Crusher",
+    "emi_category.mi_tweaks.leaf_press": "Leaf Press",
+    "emi_category.mi_tweaks.cobble_generator": "Cobblestone Generator",
+    "emi_category.mi_tweaks.crucible": "Crucible",
+    "emi_category.mi_tweaks.humidifier": "Humidifier",
+    "emi_category.mi_tweaks.brick_furnace": "Stone Brick Furnace"
+}

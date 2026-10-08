@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "miscellaneous"
+	group: ""
+	id: "30A6634DC43D496C"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "03009D9EF5EE9983"
+		tasks: [{
+			id: "53CC8E8FFF9694D5"
+			item: { count: 1, id: "constructionstick:wooden_stick" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

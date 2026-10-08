@@ -1,0 +1,11 @@
+{
+    "casing": "oak_log_casing",
+    "default_overlays": {
+        "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+        "top": "mi_tweaks:block/machines/cobble_generator/overlay_top",
+        "top_active": "mi_tweaks:block/machines/cobble_generator/overlay_top_active",
+        "item_auto": "modern_industrialization:block/overlays/item_auto",
+        "output": "modern_industrialization:block/overlays/output"
+    },
+    "loader": "modern_industrialization:machine"
+}

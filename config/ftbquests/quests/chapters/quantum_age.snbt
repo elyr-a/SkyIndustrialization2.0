@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "quantum_age"
+	group: "7906F4DF0F8E3A50"
+	icon: {
+		id: "modern_industrialization:quantum_machine_casing"
+	}
+	id: "31F0A0FBF73DB293"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,60 @@
+import { $Logger } from "@package/org/slf4j";
+import { $InetSocketAddress } from "@package/java/net";
+
+declare module "@package/net/minecraft/client/multiplayer/resolver" {
+    export class $ServerNameResolver {
+        resolveAddress(serverAddress: $ServerAddress): ($ResolvedServerAddress) | undefined;
+        static DEFAULT: $ServerNameResolver;
+    }
+    export class $ResolvedServerAddress {
+        static from(inetSocketAddress: $InetSocketAddress): $ResolvedServerAddress;
+    }
+    export interface $ResolvedServerAddress {
+        asInetSocketAddress(): $InetSocketAddress;
+        getHostName(): string;
+        getPort(): number;
+        getHostIp(): string;
+        get hostName(): string;
+        get port(): number;
+        get hostIp(): string;
+    }
+    export class $ServerRedirectHandler {
+        static createDnsSrvRedirectHandler(): $ServerRedirectHandler;
+        static LOGGER: $Logger;
+        static EMPTY: $ServerRedirectHandler;
+    }
+    export interface $ServerRedirectHandler {
+        lookupRedirect(serverAddress: $ServerAddress): ($ServerAddress) | undefined;
+    }
+    /**
+     * Values that may be interpreted as {@link $ServerRedirectHandler}.
+     */
+    export type $ServerRedirectHandler_ = ((arg0: $ServerAddress) => ($ServerAddress) | undefined);
+    export class $ServerAddressResolver {
+        static SYSTEM: $ServerAddressResolver;
+        static LOGGER: $Logger;
+    }
+    export interface $ServerAddressResolver {
+        resolve(serverAddress: $ServerAddress): ($ResolvedServerAddress) | undefined;
+    }
+    /**
+     * Values that may be interpreted as {@link $ServerAddressResolver}.
+     */
+    export type $ServerAddressResolver_ = ((arg0: $ServerAddress) => ($ResolvedServerAddress) | undefined);
+    export class $AddressCheck {
+        static createFromService(): $AddressCheck;
+    }
+    export interface $AddressCheck {
+        isAllowed(resolvedServerAddress: $ResolvedServerAddress): boolean;
+        isAllowed(serverAddress: $ServerAddress): boolean;
+    }
+    export class $ServerAddress {
+        static parseString(ip: string): $ServerAddress;
+        getHost(): string;
+        getPort(): number;
+        static isValidAddress(hostAndPort: string): boolean;
+        constructor(host: string, port: number);
+        get host(): string;
+        get port(): number;
+    }
+}
