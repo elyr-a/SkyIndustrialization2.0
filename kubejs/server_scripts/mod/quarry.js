@@ -65,5 +65,5 @@ ServerEvents.recipes(event => {
         "probability": 0.08
       }
     ]
-  }).id('kubejs:quarry/steel_custom') // Assigning a unique ID to the new recipe
+  }).id('kubejs:quarry/steel_custom') 
 })
