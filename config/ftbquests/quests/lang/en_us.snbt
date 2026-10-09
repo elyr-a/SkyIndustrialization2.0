@@ -15,7 +15,7 @@
 	quest.06F171B784711DD2.quest_desc: ["Macerating some logs into wood pulp, you can make paper in mixer."]
 	quest.06F171B784711DD2.quest_subtitle: "Macerate Some Logs"
 	quest.06F171B784711DD2.title: "Paper"
-	quest.07423E318123B4C8.quest_desc: ["By putting a Bronze Machine Casing with Gravel you can get more dusts which you will need in order to progress through Steam Age."]
+	quest.07423E318123B4C8.quest_desc: ["By putting a Bronze Machine Casing with Sand you can get more dusts which you will need in order to progress through Steam Age."]
 	quest.07423E318123B4C8.title: "More Dusts!"
 	quest.07EA9CD952374F59.quest_desc: ["Get some leaves for your first water."]
 	quest.07EA9CD952374F59.quest_subtitle: "Get to shearing"
@@ -27,6 +27,8 @@
 	quest.08E15295A4D078E5.quest_subtitle: "Sand to Clay"
 	quest.0B5DEEC09B4C7063.quest_desc: ["You can upgrade your Machines to Steel by using this on your Bronze Machines."]
 	quest.0B5DEEC09B4C7063.quest_subtitle: "Upgrading Your Machines"
+	quest.0CC1E851C3FF1E3E.quest_subtitle: "Heating Coils"
+	quest.0CC1E851C3FF1E3E.title: "Cupronickel Coil"
 	quest.0D8C68A7D3461F52.quest_desc: ["Also some couple of ores you need in next tiers."]
 	quest.0D8C68A7D3461F52.quest_subtitle: "Antimony, Lead..."
 	quest.0FEF858E4946FF85.quest_subtitle: "MD Pipes for early automation"
@@ -34,6 +36,7 @@
 	quest.17899D84C8568919.quest_desc: ["I mean you gotta start from somewhere..."]
 	quest.17899D84C8568919.quest_subtitle: "Yeah... "
 	quest.17899D84C8568919.title: "Wood..."
+	quest.1B2E535D6020AADD.quest_subtitle: "256 EU/t"
 	quest.1D21ADB75562E79D.quest_desc: [
 		"Your first way of getting cobblestone."
 		""
@@ -42,13 +45,16 @@
 	quest.1D21ADB75562E79D.quest_subtitle: "Cobblestone!"
 	quest.1DF179C561A8570A.quest_subtitle: "Wires"
 	quest.1DF179C561A8570A.title: "Steel Wiremill"
+	quest.1F0F5678C887C0DC.quest_subtitle: "MV Circuit Part"
 	quest.1F6452F613043722.quest_subtitle: "Nether Blocks"
+	quest.1FEB056F19C9505F.quest_subtitle: "Integral Machine Part 2#"
 	quest.2090C712DE3CCA9C.quest_subtitle: "Cook it"
 	quest.2090C712DE3CCA9C.title: "Uncooked Steel Dust"
 	quest.21F0032120EAFD59.title: "Steel"
 	quest.220B2718772E48BE.quest_subtitle: "Machine Casings!"
 	quest.2325120966A41374.quest_desc: ["Depending on how many water sources it has around it, it generates as much as water."]
 	quest.2325120966A41374.quest_subtitle: "Water"
+	quest.232FE45D8D6A013D.quest_subtitle: "Integral Machine Part 1#"
 	quest.28CD5A5E74E65755.quest_desc: ["Early game furnace multiblock for your smelting needs!"]
 	quest.28CD5A5E74E65755.quest_subtitle: "Mass Smelting"
 	quest.2B7053B1897B8ABB.quest_subtitle: "Mixing Coke"
@@ -57,10 +63,23 @@
 	quest.2D01140B6A9741FB.quest_desc: ["You can use Steam Quarry to get your first couple of other ores."]
 	quest.2D01140B6A9741FB.quest_subtitle: "Kinda."
 	quest.2D01140B6A9741FB.title: "Infinite Ores!"
+	quest.2F30F0B9C1BF22E4.quest_desc: [
+		"For your first Aluminum you are going to put some Bauxite in EBF. "
+		""
+		"(or just Aluminum Dust if you got it through Ore Washer)"
+	]
+	quest.2F30F0B9C1BF22E4.quest_subtitle: "Bauxite to Aluminum"
+	quest.301AC966A900AD30.quest_subtitle: "WE LOVE EBF"
 	quest.30223BFF254DC153.quest_desc: ["Make your first steam with burnable fuels."]
 	quest.30223BFF254DC153.quest_subtitle: "Your First Steam Production"
+	quest.32FFEEE0C692825D.quest_subtitle: "Unto MV Age!"
 	quest.3605036F0AF8A967.quest_subtitle: "Rods, Bolts"
+	quest.36EED420E7C09AA2.quest_desc: ["You can speed up your Steam Machines and Multiblocks with Gunpowder to work at 2x speed."]
+	quest.36EED420E7C09AA2.quest_subtitle: "2x Speed"
+	quest.36EED420E7C09AA2.title: "Speeding up Machines"
 	quest.3867FECF5B97CE9B.title: "Steam Age"
+	quest.38CAFC9BA841A50F.quest_desc: ["You can automate turning tiny dusts into normal dusts with packer."]
+	quest.38CAFC9BA841A50F.quest_subtitle: "Packing your dusts"
 	quest.3BED4B38F22CEB9C.quest_subtitle: "Bucket but wooden!"
 	quest.3C8C35BB16ACF330.quest_desc: ["Sieve some dirt to get some other vanilla saplings."]
 	quest.3C8C35BB16ACF330.quest_subtitle: "Vanilla Saplings"
@@ -73,6 +92,10 @@
 	quest.452CC867F37804FC.quest_subtitle: "Insulator"
 	quest.452CC867F37804FC.title: "Rubber Production"
 	quest.45F79F26694237F3.quest_subtitle: "Smelting"
+	quest.47EA04E48D48D2A0.quest_subtitle: "CuNi, AuAg"
+	quest.47EA04E48D48D2A0.title: "Alloys you will need"
+	quest.49A68CD080E41CDF.quest_subtitle: "Integral Machine Parts 3# and 4#"
+	quest.49A68CD080E41CDF.title: "Robot Arm and Conveyor"
 	quest.4F740BBAB48729FB.quest_desc: ["Your first way of turning stone into gravel."]
 	quest.4F740BBAB48729FB.quest_subtitle: "Stone to Gravel!"
 	quest.5055908D2180040D.quest_subtitle: "Your First Circuit"
@@ -81,6 +104,9 @@
 	quest.55E04F90E1176130.quest_desc: ["Use forge hammer in order to make your first plates, rods etc."]
 	quest.55E04F90E1176130.quest_subtitle: "Plates, Bolts, Rings..."
 	quest.56FFDC28392294F7.quest_subtitle: "Early game hopper"
+	quest.5A200C82AC0FF24F.quest_desc: ["You can put 3 pipes in the same blockspace, for example you could have a white fluid pipe for steam and blue one for water to supply water to your boilers. This works for all MI Pipes (Item and Energy)."]
+	quest.5A200C82AC0FF24F.quest_subtitle: "EnderIO Conduits?"
+	quest.5A200C82AC0FF24F.title: "Pipes"
 	quest.5DB845D4EAAC67C6.quest_desc: ["You can make bronze out of 3 Copper and 1 Tin (Dust, Tiny Dust etc.)."]
 	quest.5DB845D4EAAC67C6.quest_subtitle: "Steam Age"
 	quest.5DB845D4EAAC67C6.title: "Bronze Ingot"
@@ -88,8 +114,13 @@
 	quest.5E3482C2E0AD3676.quest_subtitle: "Sifting? Again?"
 	quest.6059C4DAB0515006.quest_subtitle: "Stone Variants"
 	quest.62C5E9728BEE4CDA.quest_desc: ["This is not really a continuation of my previous modpack. I wanted to do even simpler modpack with only MI, and it has been like one and a half year since I have last worked on the old modpack, so I have decided to make a new one."]
+	quest.62ECBE2527DD0E36.quest_desc: ["You can get cheaper recipes through Assembler, so do not forget to check them!"]
+	quest.62ECBE2527DD0E36.quest_subtitle: "Really Important Machine"
 	quest.63A5F64090CB02DE.quest_subtitle: "Mixing for your alloy needs"
+	quest.63A690426A5E323C.quest_subtitle: "LV "
 	quest.63A690426A5E323C.title: "Electric Age"
+	quest.6C826EC33163813C.quest_desc: ["You can use this to get some useful byproducts."]
+	quest.6C826EC33163813C.quest_subtitle: "Byproducts"
 	quest.6DD690389544A897.quest_desc: ["You can compress your coal dusts into diamond dust."]
 	quest.6DD690389544A897.title: "Coal to Diamond"
 	quest.6F96B9D9802210AF.quest_subtitle: "Unto Electric Age!"
@@ -98,5 +129,10 @@
 	quest.75622953AAF276B0.quest_subtitle: "Dirt out of... sand?"
 	quest.759C6639FD203FA5.quest_subtitle: "Plates"
 	quest.79490F5505E50B80.quest_subtitle: "Steel"
+	quest.7E1238D2148DFB22.quest_desc: ["You are going to need this for transistors and diodes."]
+	quest.7E1238D2148DFB22.quest_subtitle: "Coke + Quartz / Coke + Carbon"
+	quest.7E1238D2148DFB22.title: "Silicon"
+	reward_table.251C478284FE1D0D.title: "Steam Age"
 	task.33E2B0E197C44E37.title: "Welcome to Sky Industrialization"
+	task.36DBDD0DA1BE9F1B.title: "Gunpowder"
 }

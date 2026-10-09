@@ -138,14 +138,15 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:horse": true
 			"minecraft:villager": true
-			"minecraft:sheep": true
-			"minecraft:pig": true
-			"minecraft:cat": true
 			"minecraft:wandering_trader": true
-			"minecraft:cow": true
+			"minecraft:cat": true
 			"minecraft:trader_llama": true
+			"minecraft:horse": true
+			"minecraft:pig": true
+			"minecraft:sheep": true
+			"minecraft:bat": true
+			"minecraft:cow": true
 			"minecraft:slime": true
 		}
 		

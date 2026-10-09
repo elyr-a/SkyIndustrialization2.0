@@ -1,0 +1,63 @@
+{
+	icon: {
+		id: "modern_industrialization:bronze_machine_casing"
+	}
+	id: "251C478284FE1D0D"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 16
+			id: "01DD59F31BC48D83"
+			item: {
+				count: 1
+				id: "modern_industrialization:item_pipe"
+			}
+			weight: 0.2f
+		}
+		{
+			count: 16
+			id: "2153B524FAF35901"
+			item: {
+				count: 1
+				id: "modern_industrialization:fluid_pipe"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "6C013C2DDD53F067"
+			item: {
+				count: 1
+				id: "modern_industrialization:steel_upgrade"
+			}
+			weight: 0.05f
+		}
+		{
+			count: 16
+			id: "3FB018DA51CED8CA"
+			item: {
+				count: 1
+				id: "modern_industrialization:steel_ingot"
+			}
+			weight: 0.05f
+		}
+		{
+			count: 2
+			id: "10FA7300181FAFA5"
+			item: {
+				count: 1
+				id: "modern_industrialization:bronze_machine_casing"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 64
+			id: "3D280D84F58E372E"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+			weight: 0.1f
+		}
+	]
+}

@@ -1,4 +1,4 @@
-// 1.21.1	2026-10-06T21:34:43.7073312	Tags for minecraft:block mod id modern_industrialization
+// 1.21.1	2026-10-09T09:26:02.2425396	Tags for minecraft:block mod id modern_industrialization
 ef72297aa0ecfbc2672c0b74167d4bf1fa4b262e data/c/tags/block/ores.json
 b74bc7a6e8507c54ded11660bf60f4e7e06910a0 data/c/tags/block/ores/antimony.json
 692748c1f1e0425903fdf4da21c318c4c4a739bb data/c/tags/block/ores/bauxite.json
@@ -68,8 +68,8 @@ a5d970bccae3680b21037d8211f7006af4d6d7a7 data/c/tags/block/storage_blocks/tungst
 01d6b97b8295064cef2373a68dcf31cfea9e83f8 data/c/tags/block/storage_blocks/uranium_235.json
 fa0a7374138ac46efd360cd4765701a3ac88bc37 data/c/tags/block/storage_blocks/uranium_238.json
 ba09e47df7025bb1c4d4a072a54ce0b2e307f003 data/c/tags/block/storage_blocks/yttrium.json
-83ef9558d99b272a951490db40941728b6755366 data/minecraft/tags/block/mineable/pickaxe.json
-0598637f8fa446913456c69504f5c6bc1a6b19f1 data/minecraft/tags/block/needs_stone_tool.json
+7c97fb760a7151ed9adaefbfa10a75a4e100101a data/minecraft/tags/block/mineable/pickaxe.json
+fe980cfe20338e4b63dc00a646af3b90990d2195 data/minecraft/tags/block/needs_stone_tool.json
 2f4942034efc4f0ca583b4947ecf67ae3ee08540 data/modern_industrialization/tags/block/barrels.json
 ed3e8137fcabedef6118d8d5980c348ad5ef1d22 data/modern_industrialization/tags/block/tanks.json
 503db4170600aaf58e5984fe23343a736046e18c data/modern_industrialization/tags/block/transparent_pipe_camouflage.json

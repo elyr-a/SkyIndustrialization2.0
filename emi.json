@@ -57,9 +57,102 @@
     },
     {
       "stack": "item:modern_industrialization:redstone_battery"
+    },
+    {
+      "stack": "item:modern_industrialization:electronic_circuit_board",
+      "recipe": "modern_industrialization:electric_age/circuit/craft/electronic_circuit_board_asbl"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "modern_industrialization:diode",
+        "amount": 2
+      },
+      "recipe": "modern_industrialization:electric_age/component/craft/diode_doped_asbl"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "modern_industrialization:transistor",
+        "amount": 4
+      },
+      "recipe": "modern_industrialization:electric_age/component/craft/transistor_doped_asbl"
+    },
+    {
+      "stack": "item:modern_industrialization:silicon_plate"
+    },
+    {
+      "stack": "item:modern_industrialization:silicon_dust",
+      "recipe": "modern_industrialization:materials/blast_furnace/silicium_from_quartz"
+    },
+    {
+      "stack": "item:modern_industrialization:electronic_circuit",
+      "recipe": "modern_industrialization:electric_age/circuit/craft/electronic_circuit_asbl"
+    },
+    {
+      "stack": "item:modern_industrialization:advanced_machine_hull",
+      "recipe": "modern_industrialization:electric_age/hull/advanced_machine_hull_asbl"
     }
   ],
   "lookup_history": [
+    "item:modern_industrialization:large_steam_boiler",
+    {
+      "type": "item",
+      "id": "modern_industrialization:diode",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:transistor",
+      "amount": 4
+    },
+    "item:modern_industrialization:silicon_dust",
+    "item:modern_industrialization:silicon_ingot",
+    "item:modern_industrialization:silicon_plate",
+    "item:modern_industrialization:silicon_n_doped_plate",
+    "item:modern_industrialization:aluminum_ingot",
+    "item:modern_industrialization:aluminum_plate",
+    "item:modern_industrialization:pump",
+    "item:modern_industrialization:ore_washer",
+    {
+      "type": "item",
+      "id": "modern_industrialization:ruby_dust",
+      "chance": 0.75
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:neodymium_tiny_dust",
+      "chance": 0.025
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:titanium_tiny_dust",
+      "chance": 0.25
+    },
+    "item:modern_industrialization:electric_unpacker",
+    "item:modern_industrialization:raw_nickel",
+    "item:minecraft:raw_iron",
+    "item:modern_industrialization:digital_circuit_board",
+    "item:modern_industrialization:electrum_dust",
+    "item:modern_industrialization:electrum_ingot",
+    "item:modern_industrialization:electrum_plate",
+    "item:modern_industrialization:electrum_wire",
+    "item:modern_industrialization:electrum_cable",
+    {
+      "type": "item",
+      "id": "modern_industrialization:raw_silver",
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:raw_lead",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "modern_industrialization:lead_ore",
+      "chance": 0.25
+    },
     "item:modern_industrialization:redstone_battery",
     "item:modern_industrialization:analog_circuit",
     "item:modern_industrialization:capacitor",
@@ -79,11 +172,6 @@
     "item:modern_industrialization:steel_wiremill",
     "item:modern_industrialization:resistor",
     "item:modern_industrialization:inductor",
-    {
-      "type": "item",
-      "id": "modern_industrialization:steel_drill",
-      "amount": 64
-    },
     "item:modern_industrialization:wood_pulp",
     {
       "type": "fluid",
@@ -137,8 +225,6 @@
     "item:modern_industrialization:tin_cable",
     "item:modern_industrialization:stainless_steel_drill",
     "item:modern_industrialization:electric_quarry",
-    "item:modern_industrialization:electronic_circuit_board",
-    "item:modern_industrialization:electronic_circuit",
     "item:minecraft:ender_pearl",
     "item:minecraft:paper",
     "item:moderndynamics:attractor",
@@ -235,7 +321,6 @@
     "item:modern_industrialization:nuclear_alloy_plate",
     "item:modern_industrialization:platinum_plate",
     "item:modern_industrialization:tin_curved_plate",
-    "item:modern_industrialization:silicon_n_doped_plate",
     "item:modern_industrialization:cadmium_plate",
     "item:modern_industrialization:bronze_plate",
     "item:modern_industrialization:blastproof_alloy_plate",
